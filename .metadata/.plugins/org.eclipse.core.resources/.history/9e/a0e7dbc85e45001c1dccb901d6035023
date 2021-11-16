@@ -1,0 +1,64 @@
+package bull;
+import java.util.Vector;
+public class Principal {
+	//atributos - registro
+	private String nome;
+	private int idade;
+	private String dono;
+	
+	
+	//operações - funções dessa classe
+	
+	public void comer(){
+		System.out.println(nome + " comeu");	
+	int[] vetor = new int[4];
+	vetor[2]=54;
+	vetor[1]=1;
+	vetor[0]=900000;
+	
+	for (int i = 0; i < vetor.length; i++) {
+		System.out.println(vetor[i]);
+	}
+	}
+	
+	public void dormir() {
+		
+		System.out.println(nome +" esta a mimir shhhhhh");
+		System.out.println("*sons de " + nome + " a mimir");
+	}
+	
+	public void andar() {
+		
+		System.out.println(nome + " esta a andar");
+	}
+	
+	
+	public void Novonome(String Nonome) {
+		nome = Nonome;
+		System.out.println(nome);
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

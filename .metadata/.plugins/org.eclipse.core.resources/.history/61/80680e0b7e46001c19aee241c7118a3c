@@ -1,0 +1,8 @@
+package quetao1;
+import java.util.Vector;
+
+public class dadada {
+	int[] Acerto = new int[3];
+	
+	Acerto[1] = 1;
+}
